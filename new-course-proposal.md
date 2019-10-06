@@ -36,14 +36,14 @@ datasets.
 
 12. Course description (100 words)
 
-This course will teach how to analyse data in a reproducible and collaborative
-manner using the Python stack.  The fundamentals of both tools (bash, git,
-github, jupyter, docker, visualization) and analysis methods (hypothesis
-testing, machine learning) will be taught at the conceptual and at the
-practical levels using examples from neuroscience and neuroimaging datasets.
+This course will teach participants how to analyse data in a reproducible and
+collaborative manner using the Python software stack.  The fundamentals of both
+tools (bash, git, github, jupyter, docker, visualization) and analysis methods
+(hypothesis testing, machine learning) will be taught at the conceptual and
+practical levels using example datasets from neuroscience and neuroimaging.
 This will be an intense "hands on" bootcamp to give students a complete toolbox
-for reproducible and collaborative neuro data science. It will require students
-to have a laptop and some notion of programming.
+for reproducible and collaborative neuro data science. Students will be
+expected to have basic programming skills and to bring a laptop. 
 
 15. Projected Enrolment: **30**
 
